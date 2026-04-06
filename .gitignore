@@ -1,1 +1,19 @@
+# Visual Studio files
+.vs/
+out/
+build/
+bin/
+obj/
+*.user
+*.suo
+*.db
+*.opendb
 
+# Compiled Binaries
+*.exe
+*.pdb
+*.ilk
+
+# Data
+# We usually ignore the dictionary if it's a standard word list to save space
+data/dictionary.txt
